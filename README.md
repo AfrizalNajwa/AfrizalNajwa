@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Afrizal Najwa Syauqi**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afrizalnajwasyauqi/)ku ya.
+
+
 <!--
 **AfrizalNajwa/AfrizalNajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
